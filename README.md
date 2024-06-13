@@ -23,7 +23,7 @@ Response: 200 OK
    }
 ]
 
-Example 2: GET request for the /event/1 endpoint
+> Example 2: GET request for the /event/1 endpoint
 
 Response: 200 OK
 
@@ -35,7 +35,7 @@ Response Body:
     "date":"2020-10-15"
 }
 
-Example 3: GET request for the /event/10 endpoint
+> Example 3: GET request for the /event/10 endpoint
 
 Response: 404 Not Found
 
@@ -45,7 +45,7 @@ Response Body:
     "message": "The event doesn't exist!"
 }
 
-Example 4: DELETE request for the /event/1 endpoint
+> Example 4: DELETE request for the /event/1 endpoint
 
 Response: 200 OK
 
@@ -57,7 +57,7 @@ Response Body:
     "date":"2020-10-15"
 }
 
-Example 5: DELETE request for the /event/10 endpoint
+> Example 5: DELETE request for the /event/10 endpoint
 
 Response: 404 Not Found
 
