@@ -61,7 +61,7 @@ Response Body:
 > 5: DELETE request for the /event/10 endpoint
 ```
 Response: 404 Not Found
-```
+
 Response Body:
 
 {
